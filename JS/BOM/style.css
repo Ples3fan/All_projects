@@ -1,0 +1,13 @@
+#container, #cont{
+    width: auto;
+    padding-top: 200px;
+    margin: auto;
+    justify-content: center;
+}
+#button{
+    background: green;
+    
+}
+#easy{
+    margin-left: 600px;
+}

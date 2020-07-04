@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Forms2_Pleskanev</title>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        fieldset{
+            width: 400px;
+            
+        }
+        #left{
+            width: 200px;
+            float: left;
+        }
+        #right{
+            width: 200px;
+            float: right;
+        }
+        #answer{
+            width: 399px;
+            height: 200px;
+            border: 1px double #ccc;
+        }
+        .hidden{
+            display: none;
+        }
+    </style>
+</head>
+<body>
+       <fieldset>
+        <div id="left">
+            <textarea id="tarea" cols="20" rows=10>
+            </textarea>
+            <p><button type="button" id="but">Готово</button></p>
+            <div style="margin-top: 15px; border: 1px lightblue; background: lightblue; text-align: center; width: 400px;">Ваше сообщение</div>
+            <div id="answer"></div>
+        </div>
+        <div id="right">
+            <p><input type="checkbox" id="polu" value="">Полужирный</p>
+            <p><input type="checkbox" id="kurs" value="">Курсив</p>
+            <p><input type="checkbox" id="color" value="">Изменить цвет</p>
+            <div id="colored" class="hidden">
+                <p><input type="radio" name="co" value="red">Красный <input type="radio" name="co" value="blue">Голубой</p>
+                <p><input type="radio" name="co" value="yellow">Желтый <input type="radio" name="co" value="green">Зеленый</p>
+                <p><input type="radio" name="co" value="black" checked>Черный</p>
+            </div>
+        </div>
+          
+       </fieldset>
+ 	<fieldset>
+ 		<form name="edu_options">
+ 			<table id="edu_table">
+ 				<tr>
+ 					<th>Название товара</th>
+ 					<th>Цена, грн</th>
+ 					<th>Количество</th>
+ 					<th>Стоимость, грн</th>
+ 				</tr>
+ 				<tr>
+ 					<td>Блендер BRAUN MR 530 BABY</td>
+ 					<td><div class="price">916</div></td>
+ 					<td><input type="number" name="edu_lang1" value="1"  min="1" max="10">
+ 					</td>
+ 					<td><input type="text" name="edu_price1" value="" readonly></td>
+ 				</tr>
+				<tr>
+ 					<td>Кастрюля BERGHOFF 1100116</td>
+ 					<td class="price">1755</td>
+ 					<td><input type="number" name="edu_lang2" value="1"  min="1" max="10">
+ 					</td>
+ 					<td><input type="text" name="edu_price2" value="" readonly></td>
+ 				</tr>
+				<tr>
+ 					<td>Чайник MAESTRO RAINBOW MR 1321</td>
+ 					<td class="price">384</td>
+ 					<td><input type="number" name="edu_lang3" value="1"  min="1" max="10">
+ 					</td>
+ 					<td><input type="text" name="edu_price3" value="" readonly></td>
+ 				</tr>
+				<tr>
+					<th colspan="3">Итого</th>
+					<th id="end_price"></th>
+				</tr>
+ 			</table>
+ 		</form>
+ 	</fieldset>
+    
+    <script src="script2_DZ.js"></script>
+</body>
+</html>

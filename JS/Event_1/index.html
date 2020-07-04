@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Event_DZ</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="fontawesome-free/css/all.css">
+</head>
+<body>
+<!--
+/*Создать html-страницу со списком ссылок. Ссылки на внешние источники (которые 
+начинаются с http://) необходимо подчеркнуть пунктиром. Искать такие ссылки в 
+списке и устанавливать им дополнительные стили необходимо с помощью JS. */
+-->
+<!--
+<ul class="full">
+    <li class="one"><a href="index.html">index.html</a></li>
+    <li class="one"><a href="http://google.com">http://google.com</a></li>
+    <li class="one"><a href="http://itstep.org">http://itstep.org</a></li>
+    <li class="one"><a href="http://mystat.itstep.org">http://mystat.itstep.org</a></li>
+    <li class="one"><a href="images/header-bg.jpg">images/header-bg.jpg</a></li>
+    <li class="one"><a href="local/path">local/path</a></li>
+</ul>
+-->
+<!--
+/*Создать html-страницу с меню, которое имеет выпадающие списки. Список с 
+элементами подменю должен появляться по щелчку на соответствующий элемент 
+меню. */
+-->
+<ul id="nav7">
+  <li class="menu-item"><a href="#1">Home</a>
+  <li class="menu-item"><a href="#2">Category</a>
+      <ul class="sub-menu">
+        <li><a href="#2-1">Dresses</a>
+        <li><a href="#2-2">Shirts</a>
+        <li><a href="#2-3">Jeans</a>
+        <li><a href="#2-4">Shoes</a>
+      </ul>
+  <li class="menu-item"><a href="#3">About</a>
+  <li class="menu-item"><a href="#4">Contacts</a>
+</ul>
+<!--
+Создать html-страницу с кнопкой Like, при нажатии на которую увеличивается счетчик 
+лайков
+-->
+<button class="button" >
+    <i class="fas fa-thumbs-up"></i>
+    LIKE 
+    <span class="increase"> 0</span>
+</button>
+<!--
+Создать html-страницу с блоками информации, которые открываются по щелчку на 
+заголовок. В один момент времени может быть развернут только один блок 
+информации.
+-->
+<div id="container">
+    <h4 class="text active" >Lorem ipsum dolor sit.</h4>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum repellat ducimus provident, repellendus possimus neque sequi doloremque earum, harum at amet ipsa error quibusdam deleniti ratione perferendis rerum reprehenderit perspiciatis!</p>
+    <h4 class="text">Lorem ipsum dolor sit amet.</h4>
+    <p class="hidden">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum repellat ducimus provident, repellendus possimus neque sequi doloremque earum, harum at amet ipsa error quibusdam deleniti ratione perferendis rerum reprehenderit perspiciatis!</p>
+    <h4 class="text">Lorem ipsum dolor.</h4>
+    <p class="hidden">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum repellat ducimus provident, repellendus possimus neque sequi doloremque earum, harum at amet ipsa error quibusdam deleniti ratione perferendis rerum reprehenderit perspiciatis!</p>
+    <h4 class="text">Lorem ipsum dolor sit amet, consectetur.</h4>
+    <p class="hidden">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum repellat ducimus provident, repellendus possimus neque sequi doloremque earum, harum at amet ipsa error quibusdam deleniti ratione perferendis rerum reprehenderit perspiciatis!</p>
+</div>
+<script src="js/script.js"></script>
+</body>
+</html>

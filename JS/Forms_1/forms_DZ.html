@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Forms_Pleskanev</title>
+    <style>
+            #wrap {
+            width: 380px;
+            margin: 30px auto;
+            padding: 10px;
+            background: white;
+            border: 1px solid grey;
+            align-items: center;
+        }
+        #container, .container{
+            width: 420px;
+            margin: 30px auto;
+            height: 200px;
+        }
+        .left {
+            width: 190px;
+            float: left;
+        }
+        #sing{
+            margin-left: 70px;
+            padding-left: 100px;
+            padding-right: 100px;
+            margin-top: 25px;
+            background: lightblue;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <img src="guitar_hero.jpg" alt="" width="500" >
+    <form name="cont">
+        <input type="radio" name="change" value="100">100px
+        <input type="radio" name="change" value="200">200px
+        <input type="radio" name="change" value="300">300px
+        <input type="radio" name="change" value="400">400px
+        <input type="radio" name="change" value="500" checked>500px
+        
+    </form>
+<div id="wrap">
+ <div class="left">
+   <p>Your email:</p>
+    <input type="Email" id="mail" value="">
+    <p>Your login:</p>
+    <input type="text" id="login" value="">
+</div>
+<div class="left">
+   <p>Your password:</p>
+    <input type="password" id="pass2" value="">
+    <p>Reenter password</p>
+    <input type="password" id="pass" value="">
+</div>
+<button id="sing">Sing in</button>   
+</div>
+<form name="main">
+    <div id="container">
+        <div class="left">
+            <p>Firstname:</p>
+            <input type="text" name="Firstname" value="">
+            <p>Birthday:</p>
+            <input type="date" name="Birthday" value="">
+            <p>Country:</p>
+                 <select name="Country" style="width: 170px;">
+                     <option value="USA">USA</option>
+                     <option value="UKRAINE">UKRAINE</option>
+                     <option value="RUSSIA">RUSSIA</option>
+                     <option value="UK">UK</option>
+                 </select>
+        </div>
+        <div class="left">
+            <p>Lastname:</p>
+            <input type="text" name="Lastname" value="">
+            <p>Gender:<input type="radio" name="gender" value="Male">Male <input type="radio" name="gender" value="Female">Female</p>
+            <p style="margin-top: 50px;" >City:</p>
+                 <select name="City" style="width: 170px;">
+                     <option value="New-York">New-York</option>
+                     <option value="Kharkiv">Kharkiv</option>
+                     <option value="Moscow">Moscow</option>
+                     <option value="London">London</option>
+                 </select> 
+        </div>    
+    </div>
+       <p id="skil">Skills: <input type="checkbox" name="HTML" value="HTML">HTML <input type="checkbox" name="CSS" value="CSS">CSS <input type="checkbox" name="JS" value="JS">JS <input type="checkbox" name="PHP" value="PHP">PHP <input type="checkbox" name="C++" value="C++">C++ <input type="checkbox" name="JAVA" value="JAVA">JAVA <input type="checkbox" name="C#" value="C#">C#</p> 
+       <div style="width: 420px; margin:30px auto;">
+           <button id="save" type="button" style="width: 420px;">Save</button>
+    
+       </div>
+</form>
+        <table id="answer">
+           
+       </table>
+    <script src="script_DZ.js"></script>
+</body>
+</html>

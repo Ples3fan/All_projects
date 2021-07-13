@@ -1,0 +1,22 @@
+d:\MG\ШАГ\10 .Net WinForm\16 Кривые Безье и PathRegion\THERMOMETER\bin\Debug\THERMOMETER.exe.config
+d:\MG\ШАГ\10 .Net WinForm\16 Кривые Безье и PathRegion\THERMOMETER\bin\Debug\THERMOMETER.exe
+d:\MG\ШАГ\10 .Net WinForm\16 Кривые Безье и PathRegion\THERMOMETER\bin\Debug\THERMOMETER.pdb
+d:\MG\ШАГ\10 .Net WinForm\16 Кривые Безье и PathRegion\THERMOMETER\obj\Debug\THERMOMETER.csprojAssemblyReference.cache
+d:\MG\ШАГ\10 .Net WinForm\16 Кривые Безье и PathRegion\THERMOMETER\obj\Debug\THERMOMETER.Properties.Resources.resources
+d:\MG\ШАГ\10 .Net WinForm\16 Кривые Безье и PathRegion\THERMOMETER\obj\Debug\THERMOMETER.csproj.GenerateResource.cache
+d:\MG\ШАГ\10 .Net WinForm\16 Кривые Безье и PathRegion\THERMOMETER\obj\Debug\THERMOMETER.csproj.CoreCompileInputs.cache
+d:\MG\ШАГ\10 .Net WinForm\16 Кривые Безье и PathRegion\THERMOMETER\obj\Debug\THERMOMETER.exe
+d:\MG\ШАГ\10 .Net WinForm\16 Кривые Безье и PathRegion\THERMOMETER\obj\Debug\THERMOMETER.pdb
+d:\MG\ШАГ\10 .Net WinForm\16 Кривые Безье и PathRegion\THERMOMETER\obj\Debug\THERMOMETER.Form2.resources
+d:\MG\ШАГ\10 .Net WinForm\16 Кривые Безье и PathRegion\THERMOMETER\obj\Debug\THERMOMETER.Form1.resources
+E:\DB_PDeR\WF\THERMOMETER\bin\Debug\THERMOMETER.exe.config
+E:\DB_PDeR\WF\THERMOMETER\bin\Debug\THERMOMETER.exe
+E:\DB_PDeR\WF\THERMOMETER\bin\Debug\THERMOMETER.pdb
+E:\DB_PDeR\WF\THERMOMETER\obj\Debug\THERMOMETER.csprojAssemblyReference.cache
+E:\DB_PDeR\WF\THERMOMETER\obj\Debug\THERMOMETER.Form1.resources
+E:\DB_PDeR\WF\THERMOMETER\obj\Debug\THERMOMETER.Form2.resources
+E:\DB_PDeR\WF\THERMOMETER\obj\Debug\THERMOMETER.Properties.Resources.resources
+E:\DB_PDeR\WF\THERMOMETER\obj\Debug\THERMOMETER.csproj.GenerateResource.cache
+E:\DB_PDeR\WF\THERMOMETER\obj\Debug\THERMOMETER.csproj.CoreCompileInputs.cache
+E:\DB_PDeR\WF\THERMOMETER\obj\Debug\THERMOMETER.exe
+E:\DB_PDeR\WF\THERMOMETER\obj\Debug\THERMOMETER.pdb

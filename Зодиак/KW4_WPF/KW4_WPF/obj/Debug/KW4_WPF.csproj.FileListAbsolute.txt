@@ -1,0 +1,30 @@
+C:\Users\User\source\repos\KW4_WPF\KW4_WPF\obj\Debug\KW4_WPF.csprojAssemblyReference.cache
+C:\Users\User\source\repos\KW4_WPF\KW4_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\KW4_WPF\KW4_WPF\obj\Debug\App.g.cs
+C:\Users\User\source\repos\KW4_WPF\KW4_WPF\obj\Debug\KW4_WPF_MarkupCompile.cache
+C:\Users\User\source\repos\KW4_WPF\KW4_WPF\obj\Debug\KW4_WPF_MarkupCompile.lref
+C:\Users\User\source\repos\KW4_WPF\KW4_WPF\bin\Debug\KW4_WPF.exe.config
+C:\Users\User\source\repos\KW4_WPF\KW4_WPF\bin\Debug\KW4_WPF.exe
+C:\Users\User\source\repos\KW4_WPF\KW4_WPF\bin\Debug\KW4_WPF.pdb
+C:\Users\User\source\repos\KW4_WPF\KW4_WPF\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\KW4_WPF\KW4_WPF\obj\Debug\KW4_WPF.g.resources
+C:\Users\User\source\repos\KW4_WPF\KW4_WPF\obj\Debug\KW4_WPF.Properties.Resources.resources
+C:\Users\User\source\repos\KW4_WPF\KW4_WPF\obj\Debug\KW4_WPF.csproj.GenerateResource.cache
+C:\Users\User\source\repos\KW4_WPF\KW4_WPF\obj\Debug\KW4_WPF.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\KW4_WPF\KW4_WPF\obj\Debug\KW4_WPF.exe
+C:\Users\User\source\repos\KW4_WPF\KW4_WPF\obj\Debug\KW4_WPF.pdb
+d:\MG\ШАГ\11 WPF\04 Потоковые документы\KW4_WPF\KW4_WPF\bin\Debug\KW4_WPF.exe.config
+d:\MG\ШАГ\11 WPF\04 Потоковые документы\KW4_WPF\KW4_WPF\bin\Debug\KW4_WPF.exe
+d:\MG\ШАГ\11 WPF\04 Потоковые документы\KW4_WPF\KW4_WPF\bin\Debug\KW4_WPF.pdb
+d:\MG\ШАГ\11 WPF\04 Потоковые документы\KW4_WPF\KW4_WPF\obj\Debug\KW4_WPF.csprojAssemblyReference.cache
+d:\MG\ШАГ\11 WPF\04 Потоковые документы\KW4_WPF\KW4_WPF\obj\Debug\MainWindow.g.cs
+d:\MG\ШАГ\11 WPF\04 Потоковые документы\KW4_WPF\KW4_WPF\obj\Debug\App.g.cs
+d:\MG\ШАГ\11 WPF\04 Потоковые документы\KW4_WPF\KW4_WPF\obj\Debug\KW4_WPF_MarkupCompile.cache
+d:\MG\ШАГ\11 WPF\04 Потоковые документы\KW4_WPF\KW4_WPF\obj\Debug\KW4_WPF_MarkupCompile.lref
+d:\MG\ШАГ\11 WPF\04 Потоковые документы\KW4_WPF\KW4_WPF\obj\Debug\MainWindow.baml
+d:\MG\ШАГ\11 WPF\04 Потоковые документы\KW4_WPF\KW4_WPF\obj\Debug\KW4_WPF.g.resources
+d:\MG\ШАГ\11 WPF\04 Потоковые документы\KW4_WPF\KW4_WPF\obj\Debug\KW4_WPF.Properties.Resources.resources
+d:\MG\ШАГ\11 WPF\04 Потоковые документы\KW4_WPF\KW4_WPF\obj\Debug\KW4_WPF.csproj.GenerateResource.cache
+d:\MG\ШАГ\11 WPF\04 Потоковые документы\KW4_WPF\KW4_WPF\obj\Debug\KW4_WPF.csproj.CoreCompileInputs.cache
+d:\MG\ШАГ\11 WPF\04 Потоковые документы\KW4_WPF\KW4_WPF\obj\Debug\KW4_WPF.exe
+d:\MG\ШАГ\11 WPF\04 Потоковые документы\KW4_WPF\KW4_WPF\obj\Debug\KW4_WPF.pdb

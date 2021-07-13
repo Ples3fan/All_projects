@@ -1,0 +1,20 @@
+d:\MG\ШАГ\10 .Net WinForm\14 Разное\MyAnClock\bin\Debug\MyAnClock.exe.config
+d:\MG\ШАГ\10 .Net WinForm\14 Разное\MyAnClock\bin\Debug\MyAnClock.exe
+d:\MG\ШАГ\10 .Net WinForm\14 Разное\MyAnClock\bin\Debug\MyAnClock.pdb
+d:\MG\ШАГ\10 .Net WinForm\14 Разное\MyAnClock\obj\Debug\MyAnClock.csprojAssemblyReference.cache
+d:\MG\ШАГ\10 .Net WinForm\14 Разное\MyAnClock\obj\Debug\MyAnClock.Properties.Resources.resources
+d:\MG\ШАГ\10 .Net WinForm\14 Разное\MyAnClock\obj\Debug\MyAnClock.csproj.GenerateResource.cache
+d:\MG\ШАГ\10 .Net WinForm\14 Разное\MyAnClock\obj\Debug\MyAnClock.csproj.CoreCompileInputs.cache
+d:\MG\ШАГ\10 .Net WinForm\14 Разное\MyAnClock\obj\Debug\MyAnClock.exe
+d:\MG\ШАГ\10 .Net WinForm\14 Разное\MyAnClock\obj\Debug\MyAnClock.pdb
+d:\MG\ШАГ\10 .Net WinForm\14 Разное\MyAnClock\obj\Debug\MyAnClock.Form1.resources
+E:\DB_PDeR\WF\MyAnClock\bin\Debug\MyAnClock.exe.config
+E:\DB_PDeR\WF\MyAnClock\bin\Debug\MyAnClock.exe
+E:\DB_PDeR\WF\MyAnClock\bin\Debug\MyAnClock.pdb
+E:\DB_PDeR\WF\MyAnClock\obj\Debug\MyAnClock.csprojAssemblyReference.cache
+E:\DB_PDeR\WF\MyAnClock\obj\Debug\MyAnClock.Form1.resources
+E:\DB_PDeR\WF\MyAnClock\obj\Debug\MyAnClock.Properties.Resources.resources
+E:\DB_PDeR\WF\MyAnClock\obj\Debug\MyAnClock.csproj.GenerateResource.cache
+E:\DB_PDeR\WF\MyAnClock\obj\Debug\MyAnClock.csproj.CoreCompileInputs.cache
+E:\DB_PDeR\WF\MyAnClock\obj\Debug\MyAnClock.exe
+E:\DB_PDeR\WF\MyAnClock\obj\Debug\MyAnClock.pdb

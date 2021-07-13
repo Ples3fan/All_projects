@@ -1,0 +1,10 @@
+D:\prog\WinForms\Golovolomka\Golovolomka\bin\Debug\Golovolomka.exe.config
+D:\prog\WinForms\Golovolomka\Golovolomka\bin\Debug\Golovolomka.exe
+D:\prog\WinForms\Golovolomka\Golovolomka\bin\Debug\Golovolomka.pdb
+D:\prog\WinForms\Golovolomka\Golovolomka\obj\Debug\Golovolomka.Form1.resources
+D:\prog\WinForms\Golovolomka\Golovolomka\obj\Debug\Golovolomka.Properties.Resources.resources
+D:\prog\WinForms\Golovolomka\Golovolomka\obj\Debug\Golovolomka.csproj.GenerateResource.cache
+D:\prog\WinForms\Golovolomka\Golovolomka\obj\Debug\Golovolomka.csproj.CoreCompileInputs.cache
+D:\prog\WinForms\Golovolomka\Golovolomka\obj\Debug\Golovolomka.exe
+D:\prog\WinForms\Golovolomka\Golovolomka\obj\Debug\Golovolomka.pdb
+D:\prog\WinForms\Golovolomka\Golovolomka\obj\Debug\Golovolomka.csprojAssemblyReference.cache
